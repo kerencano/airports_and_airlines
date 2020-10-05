@@ -319,7 +319,7 @@
 318,Air Midwest,\N,ZV,AMW,AIR MIDWEST,United States,N
 319,Air Seychelles,\N,HM,SEY,SEYCHELLES,Seychelles,Y
 320,Air Sofia,\N,,SFB,AIR SOFIA,Bulgaria,N
-321,AeroMÈxico,\N,AM,AMX,AEROMEXICO,Mexico,Y
+321,AeroM√©xico,\N,AM,AMX,AEROMEXICO,Mexico,Y
 322,Air Ambar,\N,,AMY,AIR AMBAR,Dominican Republic,N
 323,Amiya Airline,\N,,AMZ,AMIYA AIR,Nigeria,N
 324,All Nippon Airways,ANA All Nippon Airways,NH,ANA,ALL NIPPON,Japan,Y
@@ -565,7 +565,7 @@
 564,Airwave Transport,\N,,AWV, Inc.,AIRWAVE,N
 565,Air Wales,\N,6G,AWW,RED DRAGON,United Kingdom,Y
 566,Aeroway,\N,,AWY, S.L.,AEROWEE,N
-567,Air CaraÔbes,\N,TX,FWI,FRENCH WEST,France,Y
+567,Air Cara√Øbes,\N,TX,FWI,FRENCH WEST,France,Y
 568,AirWest,\N,,AWZ, ,Sudan,N
 569,Air India Express,\N,IX,AXB,EXPRESS INDIA,India,Y
 570,Air Express,\N,,AXD,AIR SUDEX,Sudan,N
@@ -1933,7 +1933,7 @@
 1933,Cruiser Linhas Aereas,\N,,VCR,VOE CRUISER,Brazil,N
 1934,Cryderman Air Service,\N,,CTY,CENTURY,United States,N
 1935,Crystal Shamrock,\N,,CYT,CRYSTAL-AIR,United States,N
-1936,Cubana de AviaciÛn,\N,CU,CUB,CUBANA,Cuba,Y
+1936,Cubana de Aviaci√≥n,\N,CU,CUB,CUBANA,Cuba,Y
 1937,Cumberland Airways (Nicholson Air Service),\N,,CBL,CUMBERLAND,United States,N
 1938,Custom Air Transport,\N,,CTT,CATT,United States,N
 1939,Cygnus Air,\N,,RGN,CYGNUS AIR,Spain,N
@@ -2474,7 +2474,7 @@
 2474,Full Express,\N,,GAX,GRAND AIRE,United States,N
 2475,Fumigacion Aerea Andaluza,\N,,FAM,FAASA,Spain,N
 2476,Fun Flying Thai Air Service,\N,,FFY,FUN FLYING,Thailand,N
-2477,FundaciÛ Rego,\N,,ROG,REGO,Spain,N
+2477,Fundaci√≥ Rego,\N,,ROG,REGO,Spain,N
 2478,Funtshi Aviation Service,\N,,FUN,FUNTSHI,Democratic Republic of the Congo,N
 2479,Futura Gael,\N,,FGL,Applewood,Ireland,N
 2480,Futura International Airways,\N,FH,FUA,FUTURA,Spain,N
@@ -2578,7 +2578,7 @@
 2578,Gobierno De Guinea Ecuatorial,\N,,GGE,,Equatorial Guinea,N
 2579,Gof-Air,\N,,GOF,GOF-AIR,Mexico,N
 2580,Gofir,\N,,GOI,SWISS HAWK,Switzerland,N
-2581,Gol Transportes AÈreos,\N,G3,GLO,GOL TRANSPORTE,Brazil,Y
+2581,Gol Transportes A√©reos,\N,G3,GLO,GOL TRANSPORTE,Brazil,Y
 2582,Gold Belt Air Transport,\N,,GBT,GOLD BELT,Canada,N
 2583,GoldAir,\N,,GDA,AIR PARTNER,United Kingdom,N
 2584,Goldeck-Flug,\N,,GDK,GOLDECK FLUG,Austria,N
@@ -2794,8 +2794,8 @@
 2795,Hungarian Air Force,\N,,HUF,HUNGARIAN AIRFORCE,Hungary,N
 2796,Hyack Air,\N,,HYA,HYACK,Canada,N
 2797,Hydro Air Flight Operations,\N,,HYC,HYDRO CARGO,South Africa,N
-2798,Hydro-QuÈbec,\N,,HYD,HYDRO,Canada,N
-2799,HÈli SÈcuritÈ Helicopter Airlines,\N,H4,,,France,N
+2798,Hydro-Qu√©bec,\N,,HYD,HYDRO,Canada,N
+2799,H√©li S√©curit√© Helicopter Airlines,\N,H4,,,France,N
 2800,International Air Carrier Association,\N,,ITC,,Belgium,N
 2801,IBC Airways,\N,II,CSQ,CHASQUI,United States,N
 2802,IBL Aviation,\N,,IBL,CATOVAIR,Mauritius,N
@@ -3380,10 +3380,10 @@
 3383,Mall Airways,\N,,MLS,MALL-AIRWAYS,United States,N
 3384,Malmo Aviation,\N,,SCW,SCANWING,Sweden,Y
 3385,Malmoe Air Taxi,\N,,LOD,LOGIC,Sweden,N
-3386,Malmˆ Aviation,\N,TF,SCW,Scanwings,Sweden,Y
+3386,Malm√∂ Aviation,\N,TF,SCW,Scanwings,Sweden,Y
 3387,Malta Air Charter,\N,R5,MAC,MALTA CHARTER,Malta,Y
 3388,Malta Wings,\N,,MWS,MALTA WINGS,Malta,N
-3389,MalÈv,\N,MA,MAH,MALEV,Hungary,Y
+3389,Mal√©v,\N,MA,MAH,MALEV,Hungary,Y
 3390,Manaf International Airways,\N,,MLB,MANAF,Burundi,N
 3391,Mandala Airlines,\N,RI,MDL,MANDALA,Indonesia,Y
 3392,Mandarin Airlines,\N,AE,MDA,Mandarin,Taiwan,Y
@@ -3892,7 +3892,7 @@
 3897,Panorama,\N,,PNM,PANORAMA,Spain,N
 3898,Panorama Air Tour,\N,,PAH,LANI,United States,N
 3899,Panorama Flight Service,\N,,AFD,AIRFED,United States,N
-3900,Pantanal Linhas AÈreas,\N,P8,PTN,PANTANAL,Brazil,N
+3900,Pantanal Linhas A√©reas,\N,P8,PTN,PANTANAL,Brazil,N
 3901,Papair Terminal,\N,,HMP,PAPAIR TERMINAL,Haiti,N
 3902,Paradise Airways,\N,,PAI,SEA RAY,United States,N
 3903,Paradise Island Airways,\N,,PDI,PARADISE ISLAND,United States,N
@@ -4291,7 +4291,7 @@
 4296,Ryanair,\N,FR,RYR,RYANAIR,Ireland,Y
 4297,Ryazan State Air Enterprise,\N,,RYZ,RYAZAN AIR,Russia,N
 4298,Rynes Aviation,\N,,RAA,RYNES AVIATION,United States,N
-4299,RÈgional,\N,YS,RAE,REGIONAL EUROPE,France,Y
+4299,R√©gional,\N,YS,RAE,REGIONAL EUROPE,France,Y
 4302,South Asian Airlines,\N,,BDS,SOUTH ASIAN,Bangladesh,N
 4303,State Air Company Berkut,\N,,BEC,,Kazakhstan,N
 4304,SATA International,\N,S4,RZO,AIR AZORES,Portugal,Y
@@ -5420,7 +5420,7 @@
 5436,White Eagle Aviation,\N,,WEA,WHITE EAGLE,Poland,N
 5437,White River Air Services,\N,,WRA,,Canada,N
 5438,Whyalla Airlines,\N,,WWL,,Australia,N
-5439,Wider¯e,\N,WF,WIF,WIDEROE,Norway,Y
+5439,Wider√∏e,\N,WF,WIF,WIDEROE,Norway,Y
 5440,Wiggins Airways,\N,,WIG,WIGGINS AIRWAYS,United States,N
 5441,Wiking Helikopter Service,\N,,WHS,WEEKING,Germany,N
 5442,Wilbur's Flight Operations,\N,,WFO,WILBURS,United States,N
@@ -5552,13 +5552,13 @@
 9666,Virgin Pacific,,VH,VNP,,Fiji,Y
 9764,Zest Air,,Z2,\N,,Philippines,Y
 9784,Yangon Airways,,HK,\N,Hotel Kilo,Burma,Y
-9793,Transport AÈrien TransrÈgional,TAT,IJ,\N,,France,N
-9798,LÕO Flugmennt,,,LIO,,Iceland,N
+9793,Transport A√©rien Transr√©gional,TAT,IJ,\N,,France,N
+9798,L√çO Flugmennt,,,LIO,,Iceland,N
 9808,Minerva Airlines,,N4,\N,,Italy,N
 9809,Eastar Jet,,ZE,ESR,Eastar,South Korea,Y
 9810,Jin Air,,LJ,JNA,Jin Air,South Korea,Y
 9811,Wataniya Airways,,,KW1,,Kuwait,Y
-9814,AÈris (Priv),,SH,\N,,France,N
+9814,A√©ris (Priv),,SH,\N,,France,N
 9818,Air Arabia Maroc,,3O,\N,Air Arabia,Morocco,Y
 9825,Baltic Air lines,,B1,BA1,Baltic,Latvia,Y
 9828,Ciel Canadien,,YC,YCC,Ciel,Canada,Y
@@ -5713,7 +5713,7 @@
 13633,PanAm World Airways,,WQ,PQW,,United States,Y
 13690,Virginwings,,YY,VWA,,Germany,Y
 13704,KSY,Kreta Sky,KY,KSY,KSY,Greece,Y
-13732,Buquebus LÌneas AÈreas,,BQ,BQB,,Uruguay,Y
+13732,Buquebus L√≠neas A√©reas,,BQ,BQB,,Uruguay,Y
 13734,SOCHI AIR,SOCHI,CQ,KOL,SLOW FROG,Russia,Y
 13757,Wizz Air Ukraine,,WU,WAU,WIZZAIR UKRAINE,Ukraine,Y
 13781,88,,47,VVN,,Cyprus,Y
@@ -5724,7 +5724,7 @@
 13923,THREE,,H3,T33,,China,N
 13936,Royal European Airlines,,69,\N,,United Kingdom,Y
 13947,Tom\\'s & co airliners,Tom\\'s air,&T,T&O,T&,France,Y
-13983,Azul,Azul Linhas AÈreas Brasileiras,AD,AZU,,Brazil,Y
+13983,Azul,Azul Linhas A√©reas Brasileiras,AD,AZU,,Brazil,Y
 14061,LSM Airlines,slowbird,PQ,LOO,slowbird,Russia,Y
 14069,Zapolyarie Airlines,Zapolyarye Airlines,,PZY,,Russia,Y
 14073,Finlandian,,,FN1,,Finland,Y
@@ -5758,7 +5758,7 @@
 15999,China SSS,Chunqiu Airlines,9C,\N,,China,Y
 16025,Nihon.jet,,NJ,\N,,Japan,N
 16084,AIR INDOCHINE,,,IIA,,Vietnam,Y
-16093,Transportes AÈreos Nacionales de Selva,,TJ,\N,Aereos Selva,Peru,N
+16093,Transportes A√©reos Nacionales de Selva,,TJ,\N,Aereos Selva,Peru,N
 16100,Happy Air,,,HPY,,Thailand,Y
 16101,Solar Air,,,SRB,Solar Air,Thailand,Y
 16103,Air Mekong,,P8,MKG,Air Mekong,Vietnam,Y
@@ -5793,12 +5793,12 @@
 16363,Norte Lineas Aereas,NORTE,N0,\N,,Argentina,Y
 16364,Austral Brasil,Austral Brasil lineas aereas,W7,\N,,Brazil,Y
 16373,PEGASUS AIRLINES-,,H9,\N,,Turkey,Y
-16399,AirLibertÈ,,IJ,\N,,France,N
+16399,AirLibert√©,,IJ,\N,,France,N
 16409,Nihon.jet connect,,,NX1,,Kyrgyzstan,Y
 16415,Camair-co,,QC,\N,,Cameroon,Y
 16437,Aerocontinente (Priv),,N6,\N,,Peru,N
 16459,Sky Regional,Air Canada Express,RS,SKV,Sky Regional,Canada,Y
-16475,TUR Avrupa Hava Yollarƒ±,TUR European Airways,YI,\N,TurAvrupa,Turkey,N
+16475,TUR Avrupa Hava Yollar√Ñ¬±,TUR European Airways,YI,\N,TurAvrupa,Turkey,N
 16487,Cruzeiro do Sul Servicos Aereos,,,CRZ,,Brazil,N
 16507,LSM International ,Moskva-air,II,UWW,moose,Russia,Y
 16508,Baikotovitchestrian Airlines ,,BU,BUU,,American Samoa,Y
@@ -5894,7 +5894,7 @@
 17658,Volotea,,,VOO,Volotea,Spain,Y
 17666,Go Fly (United Kingdom),,,GOE,Go Flight,United Kingdom,N
 17675,Peach Aviation,,MM,\N,Air Peach,Japan,Y
-17694,Helitt LÌneas AÈreas,,,HTH,,Spain,Y
+17694,Helitt L√≠neas A√©reas,,,HTH,,Spain,Y
 17695,Russia State Transport,Federal State Budget Inst,,RSD,STATE AERO,Russia,Y
 17726,Malaysia Wings,,,MWI,MWI,Malaysia,Y
 17750,Aviabus,,U1,ABI,,Russia,Y
@@ -5984,7 +5984,7 @@
 19215,Flyme (VP),,,VQI,,Maldives,Y
 19225,Thai Lion Air,,SL,\N,,Thailand,Y
 19231,Deutsche Luftverkehrsgesellschaft,,DW,DLT,,Germany,N
-19232,N¸rnberger Flugdienst,,,NFD,,Germany,N
+19232,N√ºrnberger Flugdienst,,,NFD,,Germany,N
 19244,Golden Myanmar Airlines,,,GMR,Golden Myanmar,Burma,Y
 19262,ViznAir,,,VZA,Brian,United States,N
 19276,Canaryfly,,,CNF,,Spain,Y
@@ -6033,7 +6033,7 @@
 19804,All America,All America,A2,AL2,,United States,Y
 19805,All Asia,All Asia,L9,AL3,,China,Y
 19806,All Africa,All Africa,9A,99F,,South Africa,Y
-19807,Regionalia MÈxico,Regionalia MÈxico,N4,J88,,Mexico,Y
+19807,Regionalia M√©xico,Regionalia M√©xico,N4,J88,,Mexico,Y
 19808,All Europe,All Europe,N9,N99,,United Kingdom,Y
 19809,All Spain,All Spain,N7,N77,,Spain,Y
 19810,Regional Air Iceland,Regional Air Iceland,9N,N78,,Iceland,Y
@@ -6072,9 +6072,9 @@
 20051,Fly Africa Zimbabwe,Zimbabwe flyafrica.com,,FZW,Fresh Express,Zimbabwe,Y
 20060,San Dima Air,(Cyber Airlines) Not Real,,SDI,FAREFLIGHT,United States,Y
 20073,All America CO,All America Colombia,0Y,7ZC,,Colombia,Y
-20074,All America MX,All America MÈxico,0M,0MM,,Mexico,Y
+20074,All America MX,All America M√©xico,0M,0MM,,Mexico,Y
 20110,FOX Linhas Aereas,,FX,FOX,,Brazil,Y
-20124,Wings of England,,EX,..,,,United Kingdom,N
+20124,Wings of England,,EX,..,,United Kingdom,N
 20127,Air Kenya (Priv),,QP,\N,,Kenya,Y
 20144,Via Conectia Airlines,Via Conectia,6V,CZV,,Uruguay,Y
 20155,Hebradran Air Services,,,HBR,Hebradran,United Kingdom,Y
@@ -6124,7 +6124,7 @@
 20726,US-Bangla Airlines,,,UBG,,Bangladesh,Y
 20729,Norwegian Air International (D8),,,IBK,NORTRANS,Norway,Y
 20752,ATA Airlines (Iran),????????? ???,I3,\N,ATALAR,Iran,Y
-20769,VIA LÌneas AÈreas,VIA,V1,VIA,,Argentina,Y
+20769,VIA L√≠neas A√©reas,VIA,V1,VIA,,Argentina,Y
 20777,Palair Macedonia,,3D,PMK,,Macedonia,N
 20788,Palair Macedonia (3D),,3D,\N,,Macedonia,N
 20802,GermanXL,,GX,GXG,,Germany,Y
